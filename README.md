@@ -20,3 +20,28 @@
 🎮 But it's not all about code for me! When I'm not crafting elegant solutions, you'll often find me diving into the adrenaline-fueled worlds of Dota 2 and CS:GO. Gaming isn't just a hobby; it's where I find inspiration and recharge my creative batteries.
 
 ☕ And when I'm seeking a different kind of adventure, I love exploring the great outdoors, indulging in some quality reading time, or catching the latest blockbuster on the silver screen. But no matter where I am or what I'm doing, you can bet there's a delicious cup of coffee by my side. 
+
+🌟 Let's connect and collaborate on exciting projects! Feel free to reach out, whether it's for coding challenges or just to chat about our shared passions. Together, we can build something amazing
+
+📫 Let's Connect! Drop me a line via Telegram at @SohrabTayefi for swift and direct communication. Whether it's about collaborations, projects, or simply a chat about our shared interests, I'm always eager to connect and engage with fellow enthusiasts.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sohrabtayefi" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="sohrabtayefi"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/sohrabtayefi" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="sohrabtayefi"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
