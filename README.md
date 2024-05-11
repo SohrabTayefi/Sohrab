@@ -45,3 +45,23 @@
   /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" class="tools">
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/android.svg"
+      alt="Android"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/kotlin.svg"
+      alt="kotlin"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
