@@ -63,5 +63,39 @@
       height="40"
     />
   </a>
+   </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg"
+      alt="Android"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/flutter.svg"
+      alt="Android"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/dart.svg"
+      alt="Android"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/swift.svg"
+      alt="Android"
+      width="40"
+      height="40"
+    />
+  </a>
+
 
 
