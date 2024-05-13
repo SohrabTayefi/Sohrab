@@ -106,7 +106,7 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
       alt="html5"
       width="40"
       height="40"
