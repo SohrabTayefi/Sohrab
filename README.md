@@ -58,12 +58,11 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/kotlin.svg"
-      alt="kotlin"
+      alt="Android"
       width="40"
       height="40"
     />
   </a>
-   </a>
   <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg"
@@ -96,7 +95,7 @@
       height="40"
     />
   </a>
- <a href="https://docs.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://docs.python.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg"
       alt="Python"
@@ -106,7 +105,7 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
       alt="html5"
       width="40"
       height="40"
@@ -131,7 +130,34 @@
       width="40"
       height="40"
     />
- </a>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/sqlite.svg"
+      alt="sqlite"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
 
 
