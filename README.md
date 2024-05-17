@@ -159,5 +159,22 @@
   </a>
 </p>
 
+<p>
+  <img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api?username=sohrabtayefi&show_icons=true&locale=en"
+    alt="sohrabtayefi"
+  />
+
+  
+  <img
+    align="left"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sohrabtayefi"
+    alt="sohrabtayefi"
+  />
+  
+</p>
+
+
 
 
